@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1484741594 source:c:\users\jakub brzozowski\desktop\fbuild\base\base.c
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1484844835 source:c:\users\jakub brzozowski\desktop\fbuild\base\gui.c
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"gui.h"
+
+1484743985 c:\users\jakub brzozowski\desktop\fbuild\base\gui.h
+
+1484744110 source:c:\users\jakub brzozowski\desktop\fbuild\base\main.c
+	<stdio.h>
+	<stdlib.h>
+	"gui.h"
+	"minigame.h"
+
+1484743653 c:\users\jakub brzozowski\desktop\fbuild\base\minigame.h
+
+1484844548 source:c:\users\jakub brzozowski\desktop\fbuild\base\minigame.c
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"minigame.h"
+	"gui.h"
+
+1485040303 source:c:\users\jakub brzozowski\desktop\keyboard rush 1.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"gui.h"
+	"minigame.h"
+
+1485040303 c:\users\jakub brzozowski\desktop\keyboard rush 1.1\gui.h
+
+1484846756 c:\users\jakub brzozowski\desktop\keyboard rush 1.1\minigame.h
+
+1485042469 source:c:\users\jakub brzozowski\desktop\keyboard rush 1.1\minigame.c
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"minigame.h"
+	"gui.h"
+
+1485040998 source:c:\users\jakub brzozowski\desktop\keyboard rush 1.1\gui.c
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"gui.h"
+
