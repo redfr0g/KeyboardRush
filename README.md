@@ -1,4 +1,4 @@
-KEYBOARD RUSH 1.1
+##KEYBOARD RUSH 1.1
 
 Grę uruchamiamy poprzez plik "Keyboard Rush.exe" lub kompilując poprzez środowisko programistyczne (plik "base.cbp").
 
